@@ -1,0 +1,15 @@
+[
+    {
+        "id": 0,
+        "firstName": "John",
+        "lastName": "Doe",
+        "age": 21,
+        "street": "12345 Fake St.",
+        "city": "Sometown",
+        "state": "Illinois",
+        "interests": [
+            "Video games",
+            "Board games"
+        ]
+    }
+]
